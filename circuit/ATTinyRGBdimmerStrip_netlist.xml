@@ -1,0 +1,1057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="ATTinyRGBdimmerStrip.fzz" date="Sun May 16 20:19:58 2021">
+ <net>
+  <connector name="GND" id="connector4">
+   <part title="USB Connectors" id="855583300" label="X2"/>
+  </connector>
+  <connector name="8.2" id="connector2008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1" id="connector1">
+   <part title="Ceramic Capacitor" id="854633470" label="C4"/>
+  </connector>
+  <connector name="1.2" id="connector2001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.2" id="connector2004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.2" id="connector2002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.2" id="connector2011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.2" id="connector2005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.2" id="connector2009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.2" id="connector2014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.2" id="connector2000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.2" id="connector2007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.2" id="connector2010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.2" id="connector2003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.2" id="connector2013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.2" id="connector2012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.2" id="connector2006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.19" id="connector19006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.19" id="connector19005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.19" id="connector19004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.19" id="connector19001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.19" id="connector19003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.19" id="connector19007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.19" id="connector19002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.19" id="connector19000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.19" id="connector19008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin14" id="connector13">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="4.11" id="connector11004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.11" id="connector11002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.11" id="connector11000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.11" id="connector11001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.11" id="connector11003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.11" id="connector11005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="E" id="connector0">
+   <part title="POT" id="855611810" label="U4"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="0" id="connector0">
+   <part title="Ceramic Capacitor" id="854633470" label="C4"/>
+  </connector>
+  <connector name="11.19" id="connector19011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="VBUS" id="connector5">
+   <part title="USB Connectors" id="855583300" label="X2"/>
+  </connector>
+  <connector name="14.19" id="connector19014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.19" id="connector19009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.19" id="connector19013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.19" id="connector19010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.19" id="connector19012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.3" id="connector3008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="9.3" id="connector3009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.3" id="connector3001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.3" id="connector3014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.3" id="connector3004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.3" id="connector3010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.3" id="connector3012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.3" id="connector3013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.3" id="connector3006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.3" id="connector3003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.3" id="connector3011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.3" id="connector3002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.3" id="connector3000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.3" id="connector3007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.3" id="connector3005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.9" id="connector9014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.9" id="connector9010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.9" id="connector9011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.9" id="connector9003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.9" id="connector9006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.9" id="connector9012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.9" id="connector9000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.9" id="connector9009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.9" id="connector9007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.9" id="connector9008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.9" id="connector9002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.9" id="connector9004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.9" id="connector9001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.9" id="connector9005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.9" id="connector9013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="A" id="connector2">
+   <part title="POT" id="855611810" label="U4"/>
+  </connector>
+  <connector name="common anode" id="connector1">
+   <part title="RGB LED - (4 legs)" id="854634280" label="LED2"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="S" id="connector1">
+   <part title="POT" id="855611810" label="U4"/>
+  </connector>
+  <connector name="2.10" id="connector10002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.10" id="connector10001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.10" id="connector10004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.10" id="connector10000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.10" id="connector10003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.10" id="connector10005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin13" id="connector12">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.18" id="connector18007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.18" id="connector18003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.18" id="connector18004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.18" id="connector18008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.18" id="connector18005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.18" id="connector18006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.18" id="connector18002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.18" id="connector18000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.18" id="connector18001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part title="150Ω Resistor" id="854693870" label="R1"/>
+  </connector>
+  <connector name="12.14" id="connector14012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.14" id="connector14010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.14" id="connector14009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.14" id="connector14013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.14" id="connector14011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.14" id="connector14014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin6" id="connector5">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part title="100Ω Resistor" id="854701900" label="R2"/>
+  </connector>
+  <connector name="11.11" id="connector11011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="blue cathode" id="connector3">
+   <part title="RGB LED - (4 legs)" id="854634280" label="LED2"/>
+  </connector>
+  <connector name="14.11" id="connector11014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.11" id="connector11007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.11" id="connector11013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.11" id="connector11010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.11" id="connector11008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.11" id="connector11012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.11" id="connector11009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part title="150Ω Resistor" id="854702000" label="R3"/>
+  </connector>
+  <connector name="13.8" id="connector8013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="red cathode" id="connector0">
+   <part title="RGB LED - (4 legs)" id="854634280" label="LED2"/>
+  </connector>
+  <connector name="3.8" id="connector8003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.8" id="connector8002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.8" id="connector8007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.8" id="connector8006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.8" id="connector8011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.8" id="connector8009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.8" id="connector8014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.8" id="connector8012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.8" id="connector8008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.8" id="connector8000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.8" id="connector8005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.8" id="connector8004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.8" id="connector8001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.8" id="connector8010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part title="150Ω Resistor" id="854702000" label="R3"/>
+  </connector>
+  <connector name="13.13" id="connector13013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.13" id="connector13009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.13" id="connector13011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.13" id="connector13010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.13" id="connector13012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.13" id="connector13014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin7" id="connector6">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 1" id="connector1">
+   <part title="150Ω Resistor" id="854693870" label="R1"/>
+  </connector>
+  <connector name="12.10" id="connector10012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="green cathode" id="connector2">
+   <part title="RGB LED - (4 legs)" id="854634280" label="LED2"/>
+  </connector>
+  <connector name="11.10" id="connector10011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.10" id="connector10009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.10" id="connector10008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.10" id="connector10013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.10" id="connector10014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.10" id="connector10010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.10" id="connector10007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="Pin 0" id="connector0">
+   <part title="100Ω Resistor" id="854701900" label="R2"/>
+  </connector>
+  <connector name="11.15" id="connector15011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.15" id="connector15009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.15" id="connector15013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.15" id="connector15010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.15" id="connector15014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.15" id="connector15012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="pin5" id="connector4">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin12" id="connector11">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.17" id="connector17007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.17" id="connector17002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.17" id="connector17001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.17" id="connector17000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.17" id="connector17003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.17" id="connector17008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.17" id="connector17004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.17" id="connector17006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.17" id="connector17005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin10" id="connector9">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.15" id="connector15007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.15" id="connector15006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.15" id="connector15002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.15" id="connector15003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.15" id="connector15008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.15" id="connector15004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.15" id="connector15000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.15" id="connector15001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.15" id="connector15005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="10.16" id="connector16010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.16" id="connector16012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.16" id="connector16013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.16" id="connector16011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.16" id="connector16009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.16" id="connector16014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin11" id="connector10">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.16" id="connector16007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.16" id="connector16001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.16" id="connector16008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.16" id="connector16005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.16" id="connector16002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.16" id="connector16003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.16" id="connector16000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.16" id="connector16006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.16" id="connector16004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="10.17" id="connector17010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.17" id="connector17014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.17" id="connector17013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.17" id="connector17011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.17" id="connector17009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.17" id="connector17012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.13" id="connector13007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.13" id="connector13005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.13" id="connector13000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.13" id="connector13001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.13" id="connector13004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.13" id="connector13008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.13" id="connector13003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.13" id="connector13006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.13" id="connector13002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="10.18" id="connector18010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.18" id="connector18014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.18" id="connector18011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.18" id="connector18012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.18" id="connector18009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.18" id="connector18013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin9" id="connector8">
+   <part title="ATTINY84A" id="854630600" label="IC2"/>
+  </connector>
+  <connector name="7.14" id="connector14007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.14" id="connector14008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.14" id="connector14004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.14" id="connector14001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.14" id="connector14005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.14" id="connector14000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.14" id="connector14006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.14" id="connector14002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.14" id="connector14003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="D-" id="connector3">
+   <part title="USB Connectors" id="855583300" label="X2"/>
+  </connector>
+  <connector name="8.1" id="connector1008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.1" id="connector1012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.1" id="connector1005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.1" id="connector1011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.1" id="connector1004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.1" id="connector1001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.1" id="connector1014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.1" id="connector1010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.1" id="connector1003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.1" id="connector1000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.1" id="connector1013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.1" id="connector1006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.1" id="connector1007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.1" id="connector1002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.1" id="connector1009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="D+" id="connector2">
+   <part title="USB Connectors" id="855583300" label="X2"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="14.0" id="connector14">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.0" id="connector5">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.0" id="connector10">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.0" id="connector1">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.0" id="connector3">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.0" id="connector4">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.0" id="connector8">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.0" id="connector12">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.0" id="connector0">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.0" id="connector2">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.0" id="connector9">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.0" id="connector7">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.0" id="connector6">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.0" id="connector11">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.0" id="connector13">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="0.12" id="connector12000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.12" id="connector12007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.12" id="connector12002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.12" id="connector12005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.12" id="connector12008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.12" id="connector12001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.12" id="connector12009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.12" id="connector12014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.12" id="connector12006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.12" id="connector12012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.12" id="connector12003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.12" id="connector12011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.12" id="connector12010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.12" id="connector12013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.12" id="connector12004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="9.4" id="connector4009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.4" id="connector4008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.4" id="connector4007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.4" id="connector4001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.4" id="connector4014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.4" id="connector4002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.4" id="connector4013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.4" id="connector4012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.4" id="connector4004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.4" id="connector4011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.4" id="connector4005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.4" id="connector4000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.4" id="connector4006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.4" id="connector4003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.4" id="connector4010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="6.7" id="connector7006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.7" id="connector7007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.7" id="connector7003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.7" id="connector7014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.7" id="connector7012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.7" id="connector7013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.7" id="connector7009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.7" id="connector7011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.7" id="connector7000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.7" id="connector7008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.7" id="connector7010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.7" id="connector7002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.7" id="connector7001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.7" id="connector7004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.7" id="connector7005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="4.5" id="connector5004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.5" id="connector5005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.5" id="connector5014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.5" id="connector5010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.5" id="connector5002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.5" id="connector5000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.5" id="connector5011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.5" id="connector5009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.5" id="connector5008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.5" id="connector5003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.5" id="connector5013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.5" id="connector5012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.5" id="connector5006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="1.5" id="connector5001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.5" id="connector5007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="1.6" id="connector6001">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="9.6" id="connector6009">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="8.6" id="connector6008">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="14.6" id="connector6014">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="7.6" id="connector6007">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="4.6" id="connector6004">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="0.6" id="connector6000">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="10.6" id="connector6010">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="6.6" id="connector6006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="5.6" id="connector6005">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="2.6" id="connector6002">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="11.6" id="connector6011">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="3.6" id="connector6003">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="13.6" id="connector6013">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+  <connector name="12.6" id="connector6012">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="6.11" id="connector11006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="6.10" id="connector10006">
+   <part title="basic single-sided stripboard" id="855586070" label="Stripboard1"/>
+  </connector>
+ </net>
+</netlist>

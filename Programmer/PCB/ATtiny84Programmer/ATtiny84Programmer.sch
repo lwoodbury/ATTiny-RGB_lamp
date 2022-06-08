@@ -1,0 +1,169 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Arduino:Arduino_Micro_Socket XA1
+U 1 1 60AE94F3
+P 5600 4350
+F 0 "XA1" H 5600 5587 60  0000 C CNN
+F 1 "Arduino_Micro_Socket" H 5600 5481 60  0000 C CNN
+F 2 "Arduino:Arduino_Micro_Socket" H 7400 8100 60  0000 C CNN
+F 3 "https://store.arduino.cc/arduino-micro" H 7400 8100 60  0001 C CNN
+	1    5600 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Microchip_ATtiny:ATtiny84A-PU U1
+U 1 1 60AED030
+P 8150 4350
+F 0 "U1" H 7620 4304 50  0000 R CNN
+F 1 "ATtiny84A-PU" H 7620 4395 50  0000 R CNN
+F 2 "Package_DIP:DIP-14_W7.62mm" H 8150 4350 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc8183.pdf" H 8150 4350 50  0001 C CNN
+	1    8150 4350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 60AF2F5C
+P 7350 5400
+F 0 "D1" H 7343 5617 50  0000 C CNN
+F 1 "LED" H 7343 5526 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 7350 5400 50  0001 C CNN
+F 3 "~" H 7350 5400 50  0001 C CNN
+	1    7350 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 60AF7D99
+P 7350 5100
+F 0 "R1" H 7420 5146 50  0000 L CNN
+F 1 "150r" H 7420 5055 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7280 5100 50  0001 C CNN
+F 3 "~" H 7350 5100 50  0001 C CNN
+	1    7350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C1
+U 1 1 60AF93AE
+P 6750 5550
+F 0 "C1" H 6868 5596 50  0000 L CNN
+F 1 "10uF" H 6868 5505 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 6788 5400 50  0001 C CNN
+F 3 "~" H 6750 5550 50  0001 C CNN
+	1    6750 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 60AFD723
+P 4300 5150
+F 0 "#PWR0101" H 4300 5000 50  0001 C CNN
+F 1 "+5V" V 4315 5278 50  0000 L CNN
+F 2 "" H 4300 5150 50  0001 C CNN
+F 3 "" H 4300 5150 50  0001 C CNN
+	1    4300 5150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0102
+U 1 1 60AFE195
+P 8150 5250
+F 0 "#PWR0102" H 8150 5100 50  0001 C CNN
+F 1 "+5V" H 8165 5423 50  0000 C CNN
+F 2 "" H 8150 5250 50  0001 C CNN
+F 3 "" H 8150 5250 50  0001 C CNN
+	1    8150 5250
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 60AFF1CE
+P 4300 4850
+F 0 "#PWR0103" H 4300 4600 50  0001 C CNN
+F 1 "GND" V 4305 4722 50  0000 R CNN
+F 2 "" H 4300 4850 50  0001 C CNN
+F 3 "" H 4300 4850 50  0001 C CNN
+	1    4300 4850
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 60AFFB68
+P 8150 3450
+F 0 "#PWR0104" H 8150 3200 50  0001 C CNN
+F 1 "GND" H 8155 3277 50  0000 C CNN
+F 2 "" H 8150 3450 50  0001 C CNN
+F 3 "" H 8150 3450 50  0001 C CNN
+	1    8150 3450
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 60B00867
+P 7350 5550
+F 0 "#PWR0105" H 7350 5300 50  0001 C CNN
+F 1 "GND" H 7355 5377 50  0000 C CNN
+F 2 "" H 7350 5550 50  0001 C CNN
+F 3 "" H 7350 5550 50  0001 C CNN
+	1    7350 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7550 3750 7000 3750
+Wire Wire Line
+	7000 3750 7000 4050
+Wire Wire Line
+	7000 4050 6900 4050
+Wire Wire Line
+	7550 4350 7000 4350
+Wire Wire Line
+	7000 4350 7000 4650
+Wire Wire Line
+	7000 4650 6900 4650
+Wire Wire Line
+	7550 4450 7100 4450
+Wire Wire Line
+	7100 4450 7100 4550
+Wire Wire Line
+	7100 4550 6900 4550
+Wire Wire Line
+	7550 4550 7150 4550
+Wire Wire Line
+	7150 4550 7150 4750
+Wire Wire Line
+	7150 4750 6900 4750
+Wire Wire Line
+	7550 4950 7350 4950
+Wire Wire Line
+	6900 5050 7000 5050
+Wire Wire Line
+	7000 5050 7000 5550
+Wire Wire Line
+	7000 5550 6900 5550
+$Comp
+L power:GND #PWR0106
+U 1 1 60B0AEFB
+P 6600 5550
+F 0 "#PWR0106" H 6600 5300 50  0001 C CNN
+F 1 "GND" V 6605 5422 50  0000 R CNN
+F 2 "" H 6600 5550 50  0001 C CNN
+F 3 "" H 6600 5550 50  0001 C CNN
+	1    6600 5550
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
